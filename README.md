@@ -1,3 +1,2 @@
 # Predictions_models
-ML models for predictions 
-Using machine learning models for stocks, indecies, currencies predictions
+ML models for price/volatility predictions of stocks, indecies, currencies, crypto etc
